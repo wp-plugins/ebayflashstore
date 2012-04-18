@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== eBayflashstore ===
 Contributors: chrismis
 Donate link: http://www.edeetion.com
 Tags: auction, listing
