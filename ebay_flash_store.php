@@ -4,12 +4,12 @@
  */
 /*
 Plugin Name: Ebay Flash Store
-Plugin URI: ...
+Plugin URI: http://www.edeetion.com/ebayflashstore
 Description: 
-Version: 0.1
-Author: ...
-Author URI: ...
-License: ...
+Version: 3.0
+Author: edeetion
+Author URI: http://www.edeetion.com
+License: GPL v2
 */
 
 /**
