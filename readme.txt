@@ -10,8 +10,7 @@ eBayflashstore is a plugin allowing to display eBay auctions from a unique eBay 
 
 == Description ==
 
-plugin eBayFlashstore:
-eBayseller is a plugin allowing to display eBay auctions from a unique eBay store, in a flash carrousel interface for any Wordpress page.
+eBayFlashstore is a plugin allowing to display eBay auctions from a unique eBay store, in a flash carrousel interface for any Wordpress page.
 Just select some parameters to match your needs and your listing will be automatically displayed in the module. This module uses the the latest API available on Ebay developer website.
 Our plugins are eBay compatible application certified.
 
