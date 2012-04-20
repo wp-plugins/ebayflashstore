@@ -30,7 +30,7 @@ Our plugins are eBay compatible application certified.
 
 == Installation ==
 
-1. Upload ebay_flash_store.zip to the `/wp-content/plugins/` directory
+1. Upload plugin to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Define your own parameters in the configuration page of the plugin
 

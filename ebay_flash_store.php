@@ -3,7 +3,7 @@
  * @package EBay Plugins
  */
 /*
-Plugin Name: Ebay Flash Store
+Plugin Name: eBayflashstore
 Plugin URI: http://www.edeetion.com/ebayflashstore
 Description: 
 Version: 3.0
