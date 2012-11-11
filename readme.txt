@@ -7,6 +7,7 @@ Tested up to: 3.X
 Stable tag: 3.0
 License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+
 eBayflashstore is a plugin allowing to display eBay auctions from a unique eBay store, in a flash carrousel interface.
 
 == Description ==
