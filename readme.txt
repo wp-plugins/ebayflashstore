@@ -56,7 +56,7 @@ Our plugins are eBay compatible application certified.
 = 3.0 =
 first wordpress version
 
-= 3.0 =
+= 4.0 =
 updated version for wordpress until 4.x
 
 == Frequently Asked Questions ==
