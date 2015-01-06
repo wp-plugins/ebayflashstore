@@ -3,17 +3,17 @@
  * @package EBay Plugins
  */
 /*
-Plugin Name: eBayflashstore
-Plugin URI: http://www.edeetion.com/ebayflashstore
+Plugin Name: Ebay Flash Store
+Plugin URI: http://www.edeetion.com
 Description: 
-Version: 3.0
+Version: 4
 Author: edeetion
 Author URI: http://www.edeetion.com
-License: GPL v2
+License: http://www.edeetion.com
 */
 
 /**
- * Making it possible to use the application for version 2.6,2.7
+ * Making it possible to use the application for versions 2.6,2.7, 3.x and 4.x
  */
 if(!function_exists('plugins_url_internal_function')){
   function plugins_url_internal_function($path = '', $plugin = ''){
@@ -45,7 +45,7 @@ if(!function_exists('plugins_url_internal_function')){
 }
 
 /**
- * Making it possible to use the application for version 2.6,2.7
+ * Making it possible to use the application for versions 2.6,2.7, 3.x and 4.x
  */
 if(!function_exists('plugin_dir_url')){
   /**
