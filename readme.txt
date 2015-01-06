@@ -3,9 +3,10 @@ Contributors: chrismis
 Donate link: http://www.edeetion.com
 Tags: auction, listing
 Requires at least: 2.5
-Tested up to: 3.X
-Stable tag: 3.0
+Tested up to: 4.X
+Stable tag: 4.0
 License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
+
 
 eBayflashstore is a plugin allowing to display eBay auctions from a unique eBay store, in a flash carrousel interface.
 
@@ -48,10 +49,15 @@ Our plugins are eBay compatible application certified.
 * Full version for Wordpress.
 * Another change.
 
+= 4.0 =
+* updated version for wordpress until 4.x
+
 == Upgrade Notice ==
 = 3.0 =
 first wordpress version
 
+= 3.0 =
+updated version for wordpress until 4.x
 
 == Frequently Asked Questions ==
 1. [FAQ : visit our FAQ on edeetion.com](http://www.edeetion.com/faq/modules-for-cms "eBayflashstore") 
@@ -65,6 +71,7 @@ first wordpress version
 4. NUMBER OF AUCTIONS : Number between 1 and 100
 5. LANGUAGES : 6 languages available.
 6. LOCALIZATION : localize your auctions by country in the 11 ebay different websites
+7. 4 formats available
 
 == Documentation and support ==
 
