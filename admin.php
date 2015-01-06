@@ -107,10 +107,11 @@ function ebay_flash_store_get_form($form_values = array()){
     );
 
     $ebay_size_status = array(
-          "square"      => "Rectangular (vertical: 250x300)",
-          "skyscraper"  => "Skyscraper (vertical: 160x500)",
-          "leaderboard" => "Leaderboard (horizontal: 160x500)",
-    );
+              "square"       => "Rectangular (vertical: 250x300)",
+             "skyscraper"   => "Skyscraper (vertical: 160x500)",
+             "leaderboard"  => "Leaderboard (horizontal: 160x500)",
+             "big_panel"	=> "Big panel (horizontal: 800x590)",
+             "small_panel"	=> "Small panel (square: 600x590)");
   
     $ret = "";
     $ret .= '<form class="ebay_flash_store" method="post">';
